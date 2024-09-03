@@ -3,6 +3,12 @@ import "./style.css";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
+//CORRECCIONES:
+/*
+-Eliminacion de comentarios.
+-Correccion de las tabulaciones.
+-Agrege comentarios.
+*/
 
 // Define los arrays pronoun, adj y noun
 let pronoun = ["the", "sis"];
